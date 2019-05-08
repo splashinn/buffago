@@ -1,4 +1,6 @@
-# Buffago - Buffalo Starter Template
+# What is Buffago?
+
+Buffago is my attempt at creating a starter application template for web apps using Golang and the Buffalo framework [http://gobuffalo.io](http://gobuffalo.io)
 
 ## Database Setup
 
